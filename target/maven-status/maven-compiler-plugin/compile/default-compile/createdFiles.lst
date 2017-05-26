@@ -1,0 +1,8 @@
+br/com/treinaweb/springboot/entidades/Instituicao.class
+br/com/treinaweb/springboot/controllers/InstituicoesController.class
+br/com/treinaweb/springboot/repositorios/RepositorioAluno.class
+br/com/treinaweb/springboot/Application.class
+br/com/treinaweb/springboot/repositorios/RepositorioInstituicao.class
+br/com/treinaweb/springboot/controllers/AlunosController.class
+br/com/treinaweb/springboot/controllers/HelloController.class
+br/com/treinaweb/springboot/entidades/Aluno.class
